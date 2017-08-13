@@ -1,0 +1,13 @@
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\bin\Debug\LinqSearchTest.exe.config
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\bin\Debug\LinqSearchTest.exe
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\bin\Debug\LinqSearchTest.pdb
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\bin\Debug\EntityFramework.dll
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\bin\Debug\EntityFramework.xml
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\obj\Debug\LinqSearchTest.csproj.CoreCompileInputs.cache
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\obj\Debug\LinqSearchTest.exe
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\obj\Debug\LinqSearchTest.pdb
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\obj\Debug\LinqSearchTest.Migrations.Initial.resources
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\obj\Debug\LinqSearchTest.csproj.GenerateResource.Cache
+C:\Users\SevenColorsFish\source\repos\LinqSearchTest\LinqSearchTest\obj\Debug\LinqSearchTest.csprojResolveAssemblyReference.cache
